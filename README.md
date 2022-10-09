@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### Hi there 👋, I'm Mohammad Ammar
+#### Web Developer
+I love to play with code.
 
-Skills:  REACT JS / JS / HTML / CSS / C++/Bootstrap/Python/Java/MySql/Bash
+Skills:  REACT JS / JS / HTML / CSS / C++/Bootstrap/Python/Java/MySql/Bash/Andriod Native/React Native
 
 - 🔭 I’m currently working on Andriod Native 
 - 🌱 I’m currently learning Web Development 
