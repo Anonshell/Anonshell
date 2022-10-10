@@ -15,7 +15,7 @@ Skills:  REACT JS / JS / HTML / CSS / C++/Bootstrap/Python/Java/MySql/Bash/Andri
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anonshell)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anonshell)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anonshell)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anonshell&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anonshell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
